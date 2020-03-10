@@ -1,2 +1,0 @@
-# GH-Finder
-Udemy Tutorial
