@@ -15,6 +15,7 @@ searchUser.addEventListener('keyup', (e) => {
                 } else {
                     ui.clearAlert();
                     ui.showProfile(data.profile);
+                    ui.showRepos(data.repos);
                 }
             });
     } else {
